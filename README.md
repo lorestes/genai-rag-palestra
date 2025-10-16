@@ -43,6 +43,29 @@ Nesta palestra, exploramos como a **IA Generativa** pode ser combinada a técnic
 
 ---
 
+## 🧭 Links úteis  
+
+| Tema | Link |
+|------|------|
+| 🎨 Criar apresentações visuais | [Gamma.app](https://gamma.app) |
+| 🤖 ChatGPT | [https://chat.openai.com](https://chat.openai.com) |
+| 🧩 LangChain | [https://www.langchain.com/](https://www.langchain.com/) |
+| 🧱 ChromaDB | [https://www.trychroma.com/](https://www.trychroma.com/) |
+| 📓 Jupyter Notebook | [https://jupyter.org/](https://jupyter.org/) |
+| 💻 VS Code | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+| 🔐 Variáveis de ambiente (.env) | [python-dotenv](https://pypi.org/project/python-dotenv/) |
+| 📚 Documentação OpenAI API | [https://platform.openai.com/docs](https://platform.openai.com/docs) |
+| 🌐 Exemplos oficiais LangChain | [https://github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain) |
+
+---
+
+### 📖 Referências e Leituras Recomendadas
+
+- 🧮 **Gerando embeddings e vectorstore para os seus LLMs** — *por Diogo Santos*  
+  [https://www.linkedin.com/pulse/gerando-embeddings-e-vectorstore-para-os-seus-llms-diogo-santos-q6chf/](https://www.linkedin.com/pulse/gerando-embeddings-e-vectorstore-para-os-seus-llms-diogo-santos-q6chf/)
+  
+---
+
 ## 🚀 Hands-on
 
 O diretório [`demo-rag/`](demo-rag/) contém notebooks que demonstram o fluxo completo:
@@ -61,3 +84,17 @@ Clone este repositório e instale as dependências:
 git clone https://github.com/seu-usuario/genai-rag-palestra.git
 cd genai-rag-palestra/demo-rag
 pip install -r requirements.txt
+```
+
+---
+## 💬 Contato  
+
+📧 **José Luiz Orestes Junior**  
+💼 [LinkedIn](https://www.linkedin.com/in/jose-luiz-orestes-junior-bab0556a/)  
+🏢 *Senior Engineering Manager | AWS Certified Solutions Architect | PSM I | Management 3.0*  
+
+
+---
+
+⭐ *Se este conteúdo te ajudou, deixe uma estrela no repositório e compartilhe com colegas!*
+
