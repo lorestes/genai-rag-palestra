@@ -66,6 +66,21 @@ Nesta palestra, exploramos como a **IA Generativa** pode ser combinada a técnic
   
 ---
 
+### 🎓 Cursos Recomendados
+
+#### 🤖 **LLM Engineering: Master AI, Large Language Models & Agents** — *por [Ed Donner](https://www.udemy.com/user/ed-donner-3/)*  
+Curso focado em **engenharia de LLMs, agentes e IA generativa aplicada**.  
+Ed Donner é cofundador e CTO da **Nebula** e ex-CEO da **untapt**, com longa experiência em IA e liderança técnica.  
+> 🧠 *Excelente ponto de partida para entender como projetar e operar soluções com LLMs.*
+
+
+#### ☁️ **AWS Certification & Cloud Mastery** — *por [Stéphane Maarek](https://www.udemy.com/user/stephane-maarek/)*  
+Série de cursos para **dominar AWS e se preparar para certificações oficiais**.  
+Stéphane Maarek é **AWS Hero** e autor de múltiplos cursos *best-sellers* sobre cloud e Apache Kafka.  
+> ☁️ *Recomendado para quem deseja fortalecer fundamentos em nuvem e boas práticas de arquitetura.*
+
+---
+
 ## 🚀 Hands-on
 
 O diretório [`demo-rag/`](demo-rag/) contém notebooks que demonstram o fluxo completo:
