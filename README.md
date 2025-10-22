@@ -38,7 +38,8 @@ Nesta palestra, exploramos como a **IA Generativa** pode ser combinada a técnic
 | 🧩 Framework de Orquestração | [LangChain](https://www.langchain.com/) |
 | 🧮 Banco de Dados Vetorial | [Chroma](https://www.trychroma.com/) |
 | 💻 Ambiente de Desenvolvimento | [VS Code](https://code.visualstudio.com/) |
-| 📓 Execução de Códigos | [Jupyter Notebook](https://jupyter.org/) |
+| 📓 Jupyter Notebook | [https://jupyter.org/](https://jupyter.org/) |
+| ⚙️ Instalar e usar o Jupyter Notebook | [Guia oficial de instalação](https://docs.jupyter.org/en/latest/install/notebook-classic.html) |
 | 🔡 Geração de Embeddings | `text-embedding-3-small` (OpenAI API) |
 
 ---
